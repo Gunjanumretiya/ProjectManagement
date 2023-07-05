@@ -22,6 +22,11 @@ namespace ProjectManagement.Controllers
         {
             return View();
         }
+        public IActionResult Dashboard()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {
