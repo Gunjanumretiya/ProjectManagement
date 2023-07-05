@@ -24,6 +24,7 @@ namespace ProjectManagement.Controllers
         }
         public IActionResult Dashboard()
         {
+            //write Dashboard logic here
             return View();
         }
 
